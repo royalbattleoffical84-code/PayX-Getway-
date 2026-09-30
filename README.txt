@@ -1,0 +1,1 @@
+Deploy this directory as the Vercel project root. Configure all values from .env.example as Vercel Environment Variables. For local Node run, install dependencies then `node index.js` (Vercel route file remains deployment entrypoint).
